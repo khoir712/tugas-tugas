@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Red Caliber",
+    "year": 2015,
+    "type": "Red",
+    "createdAt": "2023-07-06"
+  },
+  {
+    "id": 2,
+    "name": "Riesling",
+    "year": 2015,
+    "type": "Red",
+    "createdAt": "2023-07-06"
+  },
+  {
+    "id": 3,
+    "name": "White Caliber",
+    "year": 2007,
+    "type": "White",
+    "createdAt": "2023-07-06"
+  },
+  {
+    "id": 5,
+    "name": "Malbec",
+    "year": 2015,
+    "type": "Red",
+    "createdAt": "2023-07-06"
+  }
+]
